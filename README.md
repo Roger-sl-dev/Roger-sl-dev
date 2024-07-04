@@ -11,6 +11,15 @@
 Roger-sl-dev/Roger-sl-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<body>
   
-</body>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Roger Silva</title>
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>
