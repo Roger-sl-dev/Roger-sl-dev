@@ -1,8 +1,4 @@
-```
-import "https://cdn.tailwindcss.com";
-
-
-```
+[css]()
 
 - 👋 Hi, I’m @Roger-sl-dev
 - 👀 I’m interested in ...
@@ -19,3 +15,4 @@ You can click the Preview link to take a look at your changes.
 <h2 class=' bg-red-400' >
   Roger Silva
 </h2>
+
