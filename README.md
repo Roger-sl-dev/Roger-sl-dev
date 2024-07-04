@@ -18,11 +18,13 @@ You can click the Preview link to take a look at your changes.
     <link rel="icon" type="image/svg+xml" href="/vite.svg" />
     <link rel="script" href="https://cdn.tailwindcss.com">
 
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
   </head>
   <body>
-    <div id="root"></div>
+    <div>
+     <h2 class="text-red-400">roger silva
+       
+     </h2>
+    </div>
 
   </body>
 </html>
