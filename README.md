@@ -1,4 +1,4 @@
-  <script src="https://cdn.tailwindcss.com"></script>
+("https://cdn.tailwindcss.com")
 
 - 👋 Hi, I’m @Roger-sl-dev
 - 👀 I’m interested in ...
