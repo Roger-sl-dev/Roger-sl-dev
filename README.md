@@ -1,4 +1,3 @@
-[css]()
 
 - 👋 Hi, I’m @Roger-sl-dev
 - 👀 I’m interested in ...
@@ -12,7 +11,6 @@
 Roger-sl-dev/Roger-sl-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h2 class=' bg-red-400' >
-  Roger Silva
-</h2>
-
+<body>
+  
+</body>
