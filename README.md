@@ -14,7 +14,5 @@ You can click the Preview link to take a look at your changes.
   Roger Silva
 </h2>
 <style>
-  .Text{
-    color:red
-  }
+  h2 {color: blue;}
 </style>
