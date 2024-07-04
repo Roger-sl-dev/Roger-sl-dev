@@ -1,4 +1,8 @@
-("https://cdn.tailwindcss.com")
+```
+import "https://cdn.tailwindcss.com";
+
+
+```
 
 - 👋 Hi, I’m @Roger-sl-dev
 - 👀 I’m interested in ...
