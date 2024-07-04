@@ -12,5 +12,4 @@ Roger-sl-dev/Roger-sl-dev is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 <link rel="stylesheet" href="style.css">
-
-     <h2 style=" color:red" >roger silva </h2>
+<h2 style=" color:red" >roger silva </h2>
