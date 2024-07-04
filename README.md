@@ -15,16 +15,12 @@ You can click the Preview link to take a look at your changes.
 <html lang="pt-br">
   <head>
     <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
-    <link rel="script" href="https://cdn.tailwindcss.com">
+         <link rel="stylesheet" href="style.css">
 
   </head>
   <body>
     <div>
-     <h2 class="text-red-400">roger silva
-       
-     </h2>
-    </div>
+     <h2 style=" color:red" >roger silva </h2>
 
   </body>
 </html>
